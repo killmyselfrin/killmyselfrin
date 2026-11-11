@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/profile-banner.svg" alt="killmyselfrin — developer, designer, builder" width="100%">
+<img src="assets/profile-banner.webp" alt="killmyselfrin — developer, designer, builder" width="100%">
 
 <br>
 
@@ -17,7 +17,7 @@ Exploring the space between clean code, thoughtful interfaces and creative ideas
 
 ### A little about me
 
-I'm a developer who enjoys experimenting, learning new technologies and turning ideas into something real. I'm particularly interested in **desktop experiences**, **UI/UX**, **automation** and **game development**.
+I'm a developer who enjoys experimenting, learning new technologies and turning ideas into something real. I'm particularly interested in **desktop experiences**, **UI/UX**, **automation** and ****.
 
 I care about small details: how an interface moves, how a feature feels to use, and how the whole experience comes together.
 
